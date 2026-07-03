@@ -1,4 +1,4 @@
-# ShopEase: E-Commerce QA Portfolio Project
+# ShopEase: E-Commerce QA Project
 
 Welcome to the **ShopEase QA Portfolio Project**! 
 
@@ -12,9 +12,9 @@ This repository contains a comprehensive, end-to-end Software Quality Assurance 
 
 ---
 
-## 📁 Portfolio Structure
+## 📁 Project Structure
 
-The portfolio is structured logically into several key modules, demonstrating competence across manual testing, API testing, database verification, automation testing (using Python & Selenium), agile test management (Jira simulation), and test metrics analysis:
+The project is structured logically into several key modules, demonstrating competence across manual testing, API testing, database verification, automation testing (using Python & Selenium), agile test management (Jira simulation), and test metrics analysis:
 
 ```text
 shopease_qa_portfolio/
